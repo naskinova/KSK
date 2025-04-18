@@ -1,0 +1,4 @@
+[default]
+DEBUG = true
+BACKEND_URL = "http://127.0.0.1:8000"
+DATABASE_URL = "mysql+pymysql://irina:1gabbie1@localhost:3306/ksk"
